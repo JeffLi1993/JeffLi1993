@@ -1,5 +1,7 @@
 ### Hi there 👋 微信公众号：【程序员泥瓦匠】
 
+<p align="center"><img src="https://gpvc.arturio.dev/JeffLi1993"></p> 
+
 <!--
 **JeffLi1993/JeffLi1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![JeffLi1993's github stats](https://github-readme-stats.vercel.app/api?username=JeffLi1993)](https://github.com/JeffLi1993)
+
 
 [![JeffLi1993's github stats](https://github-readme-stats.vercel.app/api?username=JeffLi1993)](https://github.com/JeffLi1993)
 
