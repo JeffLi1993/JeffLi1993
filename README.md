@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on little company
 - 🌱 I’m currently learning Google SEO
 - 💬 Welcomed to ask me about `Jeff Lee` 😎
-- 📫 How to reach me: [email:qiangqiang@gmail.com](qiangqiang@gmail.com)
+- 📫 How to reach me: qiangqiangli1993@gmail.com
 
 #### Hi there 👋 微信公众号：【程序员泥瓦匠】
 
