@@ -1,4 +1,3 @@
-<p><img src="https://gpvc.arturio.dev/JeffLi1993"></p> 
 
 - 🔭 I’m currently working on little company
 - 🌱 I’m currently learning Google SEO
