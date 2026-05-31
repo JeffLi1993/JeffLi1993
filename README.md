@@ -1,8 +1,12 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=JeffLi1993&theme=highcontrast&show_icons=true&commits_year=2025&hide_title=true"/>
+# Hi, I'm Jeff 👋
 
+📍 **Hangzhou, China** | 🚢 **SaaS Startup** | 🧙 **Growth Hacker**
 
-- 🔭 I’m currently working on little company
-- 🤖 AI Agent Software for Social Media Marketing
+- 🤖 Building AI Agent for Social Media Marketing
 - 💬 Welcomed to ask me about `Jeff`
 - 📫 Reach me: qiangqiangli1993@gmail.com
 - 📚 Blog: [BYSocket](https://bysocket.com/)
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/JeffLi1993)
