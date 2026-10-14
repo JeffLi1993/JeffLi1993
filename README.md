@@ -14,7 +14,7 @@
 
 - **[open-growth-skills](https://github.com/JeffLi1993/open-growth-skills)**  
   Distilling growth methods into reusable Agent Skills.  
-  First Skill: `chatgpt-fanout-queries` (GEO Query Fan-out). More coming, including social media content derivation and other growth Skills.
+  First Skill: `chatgpt-fanout-queries`. Including social media content derivation and other growth Skills.
 
 ## GitHub Activity
 
