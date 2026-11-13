@@ -1,10 +1,11 @@
 # Hi, I'm Jeff 👋
 
-📍 **Hangzhou, China** | 🚢 **SaaS Startup** | 🧙 **Growth Hacker**
+📍 **Hangzhou, China** | 🚢 **AI Company** | 🧙 **Growth Hacker**
 
-- 🤖 Building AI Agent for Social Media Marketing
-- 💬 Welcomed to ask me about `Jeff`
-- 📫 Reach me: qiangqiangli1993@gmail.com
+- 🤖 Building AI Agents for Digital Marketing
+- 💬 Feel free to ask me about `Jeff`
+- 📫 Email: qiangqiangli1993@gmail.com
+- 💬 WeChat: `oqqsmile`
 - 📚 Blog: [BYSocket](https://bysocket.com/)
 
 ## 🌱 Currently Open-Sourcing
@@ -13,8 +14,8 @@
   A practical SEO playbook for AI tool sites and SaaS websites, written as a systems approach rather than scattered tips.
 
 - **[open-growth-skills](https://github.com/JeffLi1993/open-growth-skills)**  
-  Distilling growth methods into reusable Agent Skills.  
-  First Skill: `chatgpt-fanout-queries`. Including social media content derivation and other growth Skills.
+  Turning everyday growth work and hands-on experience into reusable Agent Skills.  
+  Starting with `chatgpt-fanout-queries`, with more SEO, content, and growth Skills to come.
 
 ## GitHub Activity
 
