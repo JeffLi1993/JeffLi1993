@@ -15,7 +15,7 @@
 
 - **[open-growth-skills](https://github.com/JeffLi1993/open-growth-skills)**  
   Turning everyday growth work and hands-on experience into reusable Agent Skills.  
-  Starting with `chatgpt-fanout-queries`, with more SEO, content, and growth Skills to come.
+  Starting with `chatgpt-fanout-queries`, with more GEO, content, and growth Skills to come.
 
 ## GitHub Activity
 
